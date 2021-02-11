@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://the-pro-developer.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://the-pro-developer.github.io//" rel="alternate" type="text/html" /><updated>2021-02-11T13:37:57+00:00</updated><id>https://the-pro-developer.github.io//feed.xml</id><title type="html">The Pro Developer Blog</title><subtitle>Tips for software developers and engineers on programming, design, architecture, interviews and more
+</subtitle><author><name>The Pro Developer</name></author><entry><title type="html">Hello World!</title><link href="https://the-pro-developer.github.io//post/2021/02/06/hello-world.html" rel="alternate" type="text/html" title="Hello World!" /><published>2021-02-06T19:36:19+00:00</published><updated>2021-02-06T19:36:19+00:00</updated><id>https://the-pro-developer.github.io//post/2021/02/06/hello-world</id><content type="html" xml:base="https://the-pro-developer.github.io//post/2021/02/06/hello-world.html">&lt;p&gt;Hi there!&lt;/p&gt;
+
+&lt;p&gt;This is the first post of the Pro Programmer Blog, hence the obligatory title.&lt;/p&gt;
+
+&lt;p&gt;I have 10+ years of experience in the software development industry and today I thought I might start my own blog to write about my experiences in the industry, and here we are.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;This is my first attempt at blogging, the blog will definitely evolve during this journey.&lt;/p&gt;
+
+&lt;p&gt;I’ve already decided on some topics to write about and will start writing it after I am done with fixing the blog’s layout, so wish me luck!&lt;/p&gt;
+
+&lt;p&gt;Cheers!&lt;/p&gt;</content><author><name>The Pro Developer</name></author><category term="post" /><summary type="html">Hi there! This is the first post of the Pro Programmer Blog, hence the obligatory title. I have 10+ years of experience in the software development industry and today I thought I might start my own blog to write about my experiences in the industry, and here we are.</summary></entry></feed>
